@@ -27,7 +27,10 @@
     <ClInclude Include="net.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="output.h">
+    <ClInclude Include="gene.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="net.h.old">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
@@ -38,10 +41,10 @@
     <ClCompile Include="atlantis++.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="netstruct.cpp">
+    <ClCompile Include="gene.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="output.cpp">
+    <ClCompile Include="net.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

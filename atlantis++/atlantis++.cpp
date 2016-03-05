@@ -3,7 +3,6 @@
 
 #include "stdafx.h"
 #include <amp.h>
-#include<iostream>
 using namespace concurrency;
 int MAXN = 100000;
 void test_array()
