@@ -146,6 +146,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="gene.h" />
+    <ClInclude Include="go.h" />
     <ClInclude Include="net.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
@@ -154,6 +155,7 @@
   <ItemGroup>
     <ClCompile Include="atlantis++.cpp" />
     <ClCompile Include="gene.cpp" />
+    <ClCompile Include="go.cpp" />
     <ClCompile Include="net.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>

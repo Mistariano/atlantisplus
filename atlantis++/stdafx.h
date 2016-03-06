@@ -9,4 +9,5 @@
 #include <iostream>
 #include<string>
 #include<cmath>
+#include<map>
 #include <tchar.h>
